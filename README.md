@@ -2,6 +2,7 @@
 ## [Tutorial Video on Youtube]()
  
 ## Preview
+![Preview](https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/0f6b58e7-7625-4246-b5e8-819f0d6567e2)
 
 
 ## Shots
@@ -11,10 +12,7 @@
    <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/aafbb96f-e3a2-4448-b883-fd7bd5bac851" height="400"/>
    <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/bd616237-3dae-4379-84b2-28723b917c31" height="400"/>
    <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/10edac0b-f82f-4da5-8d90-babd23da1192" height="400"/>
-   
-    
-   </div>
-  
+   </div> 
 </div>
 
 ## This link allows you to support me
