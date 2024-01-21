@@ -8,7 +8,11 @@
 ## Shots
  <div class="row">
   <div class="column">
-   <img src="https://github.com/AmirBayat0/Flutter-PDF-Generator/assets/91388754/5abf1db0-f90a-469b-bade-a302929069db" height="400"/>
+   <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/6cb40fb7-c7d6-4a7c-a742-ed194d44a020" height="400"/>
+   <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/aafbb96f-e3a2-4448-b883-fd7bd5bac851" height="400"/>
+   <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/bd616237-3dae-4379-84b2-28723b917c31" height="400"/>
+   <img src="https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/10edac0b-f82f-4da5-8d90-babd23da1192" height="400"/>
+   
     
    </div>
   
