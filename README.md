@@ -1,4 +1,4 @@
-# 🚀 Flutter PDF Document Generator Application 📄
+# 🚀 Personalized Flutter banner slider (carousel slider) featuring a dynamic indicator with animations.
  
 
 ## Preview
