@@ -1,8 +1,7 @@
 # 🚀 Personalized Flutter banner slider (carousel slider) featuring a dynamic indicator with animations.
+## [Tutorial Video on Youtube]()
  
-
 ## Preview
- 
 
 
 ## Shots
