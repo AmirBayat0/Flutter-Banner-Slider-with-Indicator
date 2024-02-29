@@ -1,6 +1,6 @@
 # 🚀 Personalized Flutter banner slider (carousel slider) featuring a dynamic indicator with animations.
-## [Tutorial Video on Youtube]()
- 
+## [Tutorial Video on Youtube](https://youtu.be/Ym0HU1q7YD4?feature=shared)
+ ![newScroll anime](https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/84c94a73-04d4-47f9-8286-3f1e7c648320)
 ## Preview
 ![Preview](https://github.com/AmirBayat0/Flutter-Banner-Slider-with-Indicator/assets/91388754/0f6b58e7-7625-4246-b5e8-819f0d6567e2)
 
